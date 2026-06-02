@@ -409,11 +409,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
-    "used_designators": "",
+    "top_level_sheets": [
+      {
+        "filename": "relay-interlocking-machine.kicad_sch",
+        "name": "relay-interlocking-machine",
+        "uuid": "92331a71-8b22-4cfe-a4c7-e019882baa4f"
+      }
+    ],
+    "used_designators": "C1-2,K1-7,RL1,#PWR2-23,U1-2,Q1,R1,SW2-5",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "92331a71-8b22-4cfe-a4c7-e019882baa4f",
+      "relay-interlocking-machine"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
